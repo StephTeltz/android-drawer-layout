@@ -4,6 +4,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+/**
+ * TODO remove testing git branch
+ */
+
 public class MainActivity extends BaseActivity {
 
     @Override
